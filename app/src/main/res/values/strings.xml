@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Course_registration_waiting_list_PoojaW</string>
+
+    <string-array name="priority_options">
+        <item>Graduate</item>
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+        <!-- Add more priority options as needed -->
+    </string-array>
+
+</resources>
+
